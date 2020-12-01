@@ -48,6 +48,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Imutabilidade](http://blog.fw7.com.br/posts/imutabilidade/)
+- [Facade pattern de forma rápida](http://blog.fw7.com.br/posts/facade-pattern-de-forma-rapida/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [para mais posts...](http://blog.fw7.com.br/)
