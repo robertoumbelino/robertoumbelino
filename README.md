@@ -1,7 +1,7 @@
 ### Olá, eu sou o Roberto 👋
 
 [![Website](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://robertoumbelino.github.io)
-[![Instagram Follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-umbelino-478403151/)
+[![LinkedIn Follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-umbelino-478403151/)
 [![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roberto.ubl/)
 [![Spotify Follow](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/betoubl?si=cV4iguo9R_20KF0fUnY42A)
 
