@@ -13,6 +13,25 @@
 - 👯 Estou começando a gerar conteúdo para comunidade através de _posts_ e _talks_
 - 🥅 Objetivos 2021: Começar o estudo de inteligência artificial
 
+<br />
+
+<p>
+  <a href="https://github.com/robertoumbelino/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=robertoumbelino&count_private=true&show_icons=true&custom_title=Roberto's%20Github%20Stats&hide=issues&theme=dracula"
+    />
+  </a>
+  
+  <a href="https://github.com/robertoumbelino/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoumbelino&&layout=compact&theme=dracula&langs_count=8)"
+    />
+  </a>
+</p>
 
 <br />
 
