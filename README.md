@@ -72,6 +72,7 @@
 - [Imutabilidade](http://blog.fw7.com.br/posts/imutabilidade/)
 - [Facade pattern de forma rápida](http://blog.fw7.com.br/posts/facade-pattern-de-forma-rapida/)
 - [Troféu de testes](http://blog.fw7.com.br/posts/trofeu-de-testes/)
+- [Git Stash](http://blog.fw7.com.br/posts/git-stash/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [para mais posts...](http://blog.fw7.com.br/)
