@@ -39,6 +39,7 @@
 
 ### Linguagens e Ferramentas que trabalho:
 
+![Next](https://img.shields.io/badge/nextjs-black?logo=Next.js&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
