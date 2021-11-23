@@ -78,6 +78,7 @@
 - [Facade pattern de forma rápida](http://blog.fw7.com.br/posts/facade-pattern-de-forma-rapida/)
 - [Troféu de testes](http://blog.fw7.com.br/posts/trofeu-de-testes/)
 - [Git Stash](http://blog.fw7.com.br/posts/git-stash/)
+- [Formatar datas Javascript](http://blog.fw7.com.br/posts/formatar-datas-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [para mais posts...](http://blog.fw7.com.br/)
