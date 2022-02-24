@@ -11,7 +11,7 @@
 - ❤️ Amo trabalhar no desenvolvimento de APIs
 - 🌱 Estou sempre aprendendo algo novo 🚀
 - 👯 Estou começando a gerar conteúdo para comunidade através de _posts_ e _talks_
-- 🥅 Objetivos 2021: Gerar conteúdo para comunidade de desenvolvimento
+- 🥅 Objetivos 2022: Gerar conteúdo para comunidade de desenvolvimento
 
 <br />
 
