@@ -38,15 +38,6 @@
   </a>
 </p>
 
-<br />
-
-<p>
-  <img
-    align="center"
-    src="https://activity-graph.herokuapp.com/graph?username=robertoumbelino&theme=dracula&hide_border=true"
-  />
-</p>
-
 ### Linguagens e Ferramentas que trabalho:
 
 ![Next](https://img.shields.io/badge/nextjs-black?logo=Next.js&logoColor=white&style=for-the-badge)
