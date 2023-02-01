@@ -65,6 +65,7 @@
 ![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-%23d23a20.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Serverless](https://img.shields.io/badge/serverless-%23f15953.svg?&style=for-the-badge&logo=serverless&logoColor=white)
 
 ---
 
