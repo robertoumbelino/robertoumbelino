@@ -1,4 +1,4 @@
-<img src="https://www.selectedgeeks.com/assets/img/banner-home.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="dev.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   <h1>Olá, eu sou o Roberto 👋</h1>
