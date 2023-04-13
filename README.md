@@ -1,24 +1,27 @@
-### Olá, eu sou o Roberto 👋
+<img src="https://www.selectedgeeks.com/assets/img/banner-home.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-[![Website](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://robertoumbelino.github.io)
-[![LinkedIn Follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-umbelino-478403151/)
-[![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roberto.ubl/)
-[![Spotify Follow](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/betoubl?si=cV4iguo9R_20KF0fUnY42A)
+<p align="left">
+  <h1>Olá, eu sou o Roberto 👋</h1>
+
+  [![Website](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://robertoumbelino.github.io)
+  [![LinkedIn Follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-umbelino-478403151/)
+  [![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roberto.ubl/)
+  [![Spotify Follow](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/betoubl?si=cV4iguo9R_20KF0fUnY42A)
 
 
-## Sou um Desenvolvedor e um grande entusiasta da Tecnologia
+  ## Sou um Desenvolvedor e um grande entusiasta da Tecnologia
 
-- ❤️ Amo trabalhar no desenvolvimento de APIs
-- 🌱 Estou sempre aprendendo algo novo 🚀
-- 👯 As vezes crio conteúdos para comunidade através de _posts_ e _talks_
+  - ❤️ Amo trabalhar no desenvolvimento de APIs
+  - 🌱 Estou sempre aprendendo algo novo 🚀
+  - 👯 As vezes crio conteúdos para comunidade através de _posts_ e _talks_
+</p>
 
 <br />
 
-<p>
-  <a href="https://app.daily.dev/robertoumbelino"><img src="https://api.daily.dev/devcards/1fa83634e9b849e6b941b4a997d85cf5.png?r=5ac" width="300" alt="Roberto Umbelino's Dev Card"/></a>
-</p>
+<a href="https://app.daily.dev/robertoumbelino"><img src="https://api.daily.dev/devcards/1fa83634e9b849e6b941b4a997d85cf5.png?r=5ac" width="300" alt="Roberto Umbelino's Dev Card"/></a>
 
 <p>
+
   <!--
   <a href="https://github.com/robertoumbelino/github-readme-stats">
     <img
@@ -29,13 +32,13 @@
   </a>
   -->
   
-  <a href="https://github.com/robertoumbelino/github-readme-stats">
+<!--   <a href="https://github.com/robertoumbelino/github-readme-stats">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoumbelino&&layout=compact&theme=dracula&langs_count=8)"
     />
-  </a>
+  </a> -->
 </p>
 
 ### Linguagens e Ferramentas que trabalho:
