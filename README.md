@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/robertoumbelino"><img align="right" src="https://api.daily.dev/devcards/1fa83634e9b849e6b941b4a997d85cf5.png?r=5ac" width="300" alt="Roberto Umbelino's Dev Card"/></a>
-
 <p align="left">
   <h1>Olá, eu sou o Roberto 👋</h1>
 
@@ -13,8 +11,10 @@
 
   - ❤️ Amo trabalhar no desenvolvimento de APIs
   - 🌱 Estou sempre aprendendo algo novo 🚀
-  - 👯 As vezes crio conteúdos para comunidade através de _posts_ e _talks_
+  - 👯 As vezes crio conteúdos para comunidade através de _posts_ e _talks
 </p>
+
+<a href="https://app.daily.dev/robertoumbelino"><img src="https://api.daily.dev/devcards/v2/7MFmMqSQT.png?type=default&r=agw" width="300" alt="Roberto Umbelino's Dev Card"/></a>
 
 <br />
 
