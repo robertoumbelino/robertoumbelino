@@ -57,7 +57,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Graphql](https://img.shields.io/badge/graphql-%23e10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Type Graphql](https://img.shields.io/badge/type_graphql-%232f7bc5.svg?&style=for-the-badge&logo=graphql&logoColor=white)
