@@ -11,7 +11,7 @@
 
   - ❤️ Amo trabalhar no desenvolvimento de APIs
   - 🌱 Estou sempre aprendendo algo novo 🚀
-  - 👯 As vezes crio conteúdos para comunidade através de _posts_ e _talks
+  - 👯 As vezes crio conteúdos para comunidade através de _posts_ e _talks_
 </p>
 
 <a href="https://app.daily.dev/robertoumbelino"><img src="https://api.daily.dev/devcards/v2/7MFmMqSQT.png?type=default&r=nnf" width="356" alt="Roberto Umbelino's Dev Card"/></a>
